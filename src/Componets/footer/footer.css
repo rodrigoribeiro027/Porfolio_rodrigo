@@ -1,0 +1,13 @@
+.contaierFooter{
+    background-color: #293145;
+    
+    display: flex;
+    justify-content: center;
+    color: #f8f9fa;
+    text-decoration: none;
+    
+}
+a{text-decoration: none;
+    color: #dee2e6;
+    cursor: pointer;
+}
